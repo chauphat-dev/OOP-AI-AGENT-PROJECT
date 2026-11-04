@@ -2,8 +2,8 @@
 # Đồ án môn học: Lập trình hướng đối tượng (OOP)
 
 ### Thông tin thành viên nhóm:
-- **Lưu Thiện Nhân - 25127441**
-- **Châu Tiến Phát - 25127452**
+- **Lưu Thiện Nhân 
+- **Châu Tiến Phát
 
 # A. Hướng dẫn Setup Ollama API với model Gemma4 trên Google Colab:
 ## Hướng dẫn thứ tự chạy các Cell trong Google Colab:
